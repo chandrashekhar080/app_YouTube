@@ -1,4 +1,4 @@
-# https://github.com/mrcsghosh/PWPROJECT6.git
+# [YouTube](https://mrcsghosh.github.io/PWPROJECT6/)
 Here this Repo for pw project 06 "YouTube Clone" 
 
 here we Create Youtube clone using HTML and Taolwind CSS 
